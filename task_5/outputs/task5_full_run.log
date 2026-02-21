@@ -1,0 +1,37 @@
+=== Task 5 Runner: KB tests + Prompt demo ===
+
+Running SWI-Prolog KB tests...
+
+--- saved SWI-Prolog results to: /home/ranwar3/aiea-lab.github.io/lab_tasks/task_5/outputs/swipl_kb_results.txt ---
+
+true.
+
+--- Query 1: mother(marge, X) ---
+bart
+lisa
+maggie
+true.
+
+--- Query 2: father(homer, X) ---
+bart
+lisa
+maggie
+true.
+
+--- Query 3: grandparent(abe, X) ---
+bart
+lisa
+maggie
+true.
+
+
+
+Running prompt formatting demo (run_prompts.py)...
+
+$ /home/ranwar3/aiea-lab.github.io/lab_tasks/task_5/.venv/bin/python /home/ranwar3/aiea-lab.github.io/lab_tasks/task_5/run_prompts.py
+
+--- saved output to: /home/ranwar3/aiea-lab.github.io/lab_tasks/task_5/outputs/prompts_output.txt ---
+
+usage: run_prompts.py [-h] [--all] name
+run_prompts.py: error: the following arguments are required: name
+

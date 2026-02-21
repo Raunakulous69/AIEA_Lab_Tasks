@@ -1,0 +1,20 @@
+true.
+
+--- Query 1: mother(marge, X) ---
+bart
+lisa
+maggie
+true.
+
+--- Query 2: father(homer, X) ---
+bart
+lisa
+maggie
+true.
+
+--- Query 3: grandparent(abe, X) ---
+bart
+lisa
+maggie
+true.
+

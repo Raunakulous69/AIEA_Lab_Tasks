@@ -1,0 +1,2 @@
+usage: run_prompts.py [-h] [--all] name
+run_prompts.py: error: the following arguments are required: name
